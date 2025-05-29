@@ -1,5 +1,8 @@
 # convictionfi-contracts
 
+実際に開発した MOVE スマートコントラクトはこちら。
+https://github.com/newt0/conviction/blob/main/contracts/sources/conviction_fi.move
+
 ## 予件整理
 
 - ゴール: Sui Overflow Hackathon 2025 で勝つ
